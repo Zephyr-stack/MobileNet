@@ -1,1 +1,1 @@
-In this project I have used the Mobilenet Neural network inorder to indentify the hand gestures used to represent 0-9 in sign language.
+In this project I have used the Mobilenet functional Neural network inorder to indentify the hand gestures used to represent 0-9 in sign language. Note that this model is already pre-trained and I have just fine tuned the last few layers of the model.
