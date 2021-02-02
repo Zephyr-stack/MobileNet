@@ -1,0 +1,7 @@
+Packages used:-
+1. Tensorflow: For building the machine learning model
+2. Numpy
+3. Scikit-learn
+4. os:  Manage files and separate the data into train,valid and test from via coding in the notebook
+5. Shutil: To move selected files via coding
+6. Random
